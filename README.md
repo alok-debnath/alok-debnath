@@ -17,7 +17,7 @@
 - 🌱 Currently learning **NextJS**
 - 💬 Ask me about **Web Development**
 - 📫 Reach me at **alokdebnath.in@gmail.com**
-- 🌐 My Portfolio **[alok01.eu.org](https://alok01.eu.org)**
+- 🌐 Visit my portfolio **[alok01.eu.org](https://alok01.eu.org)**
 
 <h3 align="center">Connect with Me</h3>
 
