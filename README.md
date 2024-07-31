@@ -21,7 +21,7 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/alok-debnath"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://in.linkedin.com/in/alok-debnath" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40" /></a>
   <!-- Add more social media icons as needed -->
 </p>
 
