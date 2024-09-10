@@ -6,27 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=alok-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="alok-debnath" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alok-debnath" alt="alok-debnath" />
-  </a>
-</p>
-
-<h3 align="center">About Me</h3>
-
-- 🌱 Currently learning **NextJS**
-- 💬 Ask me about **Web Development**
-- 📫 Reach me at **alokdebnath.in@gmail.com**
-- 🌐 Visit my portfolio **[alok01.eu.org](https://alok01.eu.org)**
-
-<h3 align="center">Connect with Me</h3>
-
-<p align="center">
-  <a href="https://in.linkedin.com/in/alok-debnath"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40" /></a>
-  <!-- Add more social media icons as needed -->
-</p>
-
-<h3 align="center">Languages and Tools</h3>
+<div align="center">
+  <a href="https://github.com/alok-debnath">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alok-debnath&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-debnath&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
@@ -37,14 +21,19 @@
   <!-- Add more icons for other technologies you use -->
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-debnath&show_icons=true&locale=en&layout=compact" alt="alok-debnath" />
-</p>
+  ##
+
+<h3 align="center">About Me</h3>
+
+- 🌱 Currently learning **NextJS**
+- 💬 Ask me about **Web Development**
+- 📫 Reach me at **alokdebnath.in@gmail.com**
+- 🌐 Visit my portfolio **[alok01.eu.org](https://alok01.eu.org)**
+
+
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-debnath&show_icons=true&locale=en" alt="alok-debnath" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-debnath&" alt="alok-debnath" />
+  <a href="https://in.linkedin.com/in/alok-debnath"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40" /></a>
+  <!-- Add more social media icons as needed -->
 </p>
